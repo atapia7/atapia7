@@ -30,7 +30,6 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://github.com/andree.tapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andree.tapia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andreetapia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreetapia" height="20" width="30" /></a>
 </p>
 
