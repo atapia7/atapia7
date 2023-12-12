@@ -1,6 +1,6 @@
 ![Andree Tapia](./docs/kprofile.gif)
 
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Andree</h1>
 
 <!-- ### Connect with me: -->
 
